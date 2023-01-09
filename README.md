@@ -45,8 +45,8 @@ Sections can be made Using "vh" and "vw" or pixels. Use the viewport units wisel
 @media only screen and (min-width: 1200px) {...}
 =============== Pages to Make ============== Mind map link: https://atlas.mindmup.com/2022/03/902fe8109fd211ec98ccaff4961fd0a6/home_page/index.html
 
-=========== IMPORTANT ===========
-This is a part of Sushruta (Team Project)
+
+Note- This repo is one part of Sushruta (Team Project)
 
 Main repo of Sushruta -https://github.com/mdimranraj/Sushruta
-=========================================
+
